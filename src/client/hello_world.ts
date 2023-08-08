@@ -68,6 +68,8 @@ class GreetingAccount {
   }
 }
 
+/Finding a clone/
+
 /**
  * Borsh schema definition for greeting accounts
  */
